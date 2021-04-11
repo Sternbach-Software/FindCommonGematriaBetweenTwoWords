@@ -1,0 +1,22 @@
+hechrachi_num
+		gadol_num
+		siduri_num
+		katan_num
+		perati_num
+		shemi_num
+		musafi_num
+		atbash_num
+		albam_num
+		boneeh_num
+		kidmi_num
+		neelam_num
+		meshulash_num
+		haakhor_num
+		mispari_num
+		achbi_num
+		atbach_num
+		ayakbakar_num
+		ofanim_num
+		achasbeta_num
+		avgad_num
+		reverseavgad_num
